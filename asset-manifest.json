@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ch22-react-counter/static/css/main.073c9b0a.css",
+    "main.js": "/ch22-react-counter/static/js/main.1c8abc16.js",
+    "index.html": "/ch22-react-counter/index.html",
+    "main.073c9b0a.css.map": "/ch22-react-counter/static/css/main.073c9b0a.css.map",
+    "main.1c8abc16.js.map": "/ch22-react-counter/static/js/main.1c8abc16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1c8abc16.js"
+  ]
+}
