@@ -1,8 +1,10 @@
- 
- export const ButtonApp = ( {children, onClick} ) => {
+import "./Buttons.css";
+import "./Counter.css";
+
+ export const ButtonApp = ( {children, onClick, className} ) => {
    return (
      <>
-     <button onClick={ onClick } >{children}</button>
+     <button className={className} onClick={ onClick } >{children}</button>
      </>
    )
  }
